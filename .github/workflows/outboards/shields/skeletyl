@@ -1,0 +1,4 @@
+outboard_repository="snicklepickles/skeletyl"
+outboard_ref="main"
+outboard_from="boards/shields/skeletyl"
+outboard_to="boards/shields/skeletyl"
